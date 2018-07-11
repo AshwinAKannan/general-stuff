@@ -14,7 +14,7 @@ git status
 ###### make changes, add file, commit & push
 
 ```
-git add <file-name>``` or ```git add .```
+git add <file-name> OR git add .
 git commit -m "add-message"
 git push
 ```
