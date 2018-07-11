@@ -1,4 +1,4 @@
-## Clone to desktop
+###### Clone to desktop
 ```
 git clone <repo-link>
 ```
@@ -8,8 +8,8 @@ git status
 ```
 
 ```
-git add <file-name> or git add .
-git commit -m 'add-message'
+git add <file-name>``` or ```git add .```
+git commit -m "add-message"
 git push
 ```
 ## Errors
